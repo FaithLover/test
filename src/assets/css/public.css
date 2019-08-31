@@ -1,0 +1,26 @@
+*{margin: 0;padding: 0;}
+a{text-decoration: none;}
+/* 顶部导航栏 */
+.el-menu.el-menu--horizontal{border: none;}
+#logoImg{margin:15px 0;}
+.el-menu--horizontal>.el-menu-item{height: 80px;line-height: 80px;font-size: 18px;color: #303133;}
+#header #navBtn{width: 60px;height: 35px;line-height: 35px;text-align: center;border-radius: 10px;background: #ccc;margin-left: 120px;margin-top: 25px;}
+.dropDown{width: 100% !important;left: 0 !important;top: 75px !important;opacity: 0.6;}
+.dropDown li{text-align: center;}
+.dropDown li i{display: none;}
+/* 底部导航栏 */
+#footer{background: #909399;height: auto;}
+#footer .container{max-width: 850px;min-height: 320px; margin: 0 auto;padding-top: 50px;color: #F7F7F9;}
+#footer .container h1{float: left;padding: 5px 10px 0 15px;font-weight: normal;}
+#footer .container .grid-content{height: 120px;}
+#footer .container div.el-col{padding: 0 !important;maxi-width: 200px;}
+#footer .right{float: left;}
+#footer #code{margin-top: -30px;}
+#footer .address{text-align: center;border-top: 1px solid #eee;padding:10px 0;}
+@media only screen and (min-width:375px) and (max-width:767px) {
+	.el-carousel__container{height: 300px !important;}
+	#footer .container div.el-col{width: 100px;text-align: center;margin-left: 30px;}
+	#footer .container h1{font-size: 18px;float: none;}
+	#footer .container .right p{text-align: center;width: 100px;font-size: 14px;}
+	#footer .container #code img{width: 120px;height: 120px;margin-top: 40px;margin-left: 100px;}
+}

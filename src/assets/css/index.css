@@ -1,0 +1,17 @@
+	/* 轮播图 */
+  .el-carousel__container{height: 600px;}
+  .el-carousel__container .imgSize img{width: 100%;height: 100%;}
+  /* 服务范围 */
+  .el-container{max-width: 1185px;margin: 0 auto;}
+  .el-container .service h1{font-weight: normal;font-size: 30px;border-left: 8px solid orangered;padding-left: 15px;margin: 30px 0;}
+  .el-container .service .grid-content{height: 350px;text-align: center;border: 1px solid #D2E0E6;}
+  .el-container .service .grid-content img{margin-top: 30px;}
+  .el-container .service .grid-content h4{line-height: 60px;}
+  .el-container .service .grid-content p{padding: 0 16px;text-align: center;font-size: 12px;line-height: 24px;}
+  .el-container .procedures .el-row{background: #F8F8F8;margin-left: 50px;margin-bottom: 50px;}
+  .el-container .procedures .el-row>.el-col{padding: 0 !important;}
+  .el-container .procedures h1{font-weight: normal;font-size: 30px;border-left: 8px solid orangered;padding-left: 15px;margin: 50px 0;}
+  .el-container .procedures .grid-content{height: 365px;text-align: center;background: transparent;border: 1px solid #DCDFE6;padding: 0 20px;margin: 15px 20px 15px 20px ;}
+  .el-container .procedures .grid-content img{margin-top: 30px;}
+  .el-container .procedures .grid-content h4{line-height: 60px;}
+  .el-container .procedures .grid-content .consult{display: block;width: 100px;height: 35px;border: 1px solid #006699;text-align: center;line-height: 35px;margin: 30px auto;color: #006699;}

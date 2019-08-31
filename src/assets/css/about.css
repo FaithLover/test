@@ -1,0 +1,115 @@
+/* 公司简介开始 */
+.about #content .introduce {
+	align-items: center;
+	width: 100%;
+	background: #1676E5;
+	padding: 80px 0;
+}
+
+.about #content .introduce .font {
+	width: 90%;
+	margin: 0 auto;	
+	line-height: 2.625em;
+	color: #FFFFFF;
+}
+
+.about #content .introduce .font h3 {
+	text-align: center;
+	margin-bottom: 10px;
+	font-size: 2.25em;
+	font-weight: 500;
+	color: #FFFFFF;
+
+}
+
+.about #content .introduce .font p {
+	font-size: 1.3125em;
+	font-weight: 400;
+}
+
+.about #content .introduce .pictrue img {
+	width: 68.25em;
+	height: 25em;
+}
+/* 公司简介结束 */
+
+/* 公司价值观开始 */
+.about #content .value {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.about #content .value .text {
+	text-align: center;
+	margin: 60px auto;
+	color: #000000;
+}
+
+.about #content .value .text h2 {
+	font-size: 2.25em;
+}
+
+.about #content .value .text p {
+	font-size: 1.5em;
+	text-align: center;
+	color: #000000;
+}
+
+.about #content .value .value_list {
+	height: 21.875em;
+	margin: 0.625em auto;
+	text-align: center;
+}
+
+.about #content .value .value_list h2 {
+	font-size: 1.5em;
+	color: #1676E5;
+}
+
+.about #content .value .value_list p {
+	font-size: 16px;
+	text-align: center;
+}
+
+.about #content .value .value_list img {
+	width: 7.5em;
+	height: 7.5em;
+	margin: 1.875rem 0;
+}
+/* 公司价值观结束 */
+
+/* 选择我们的理由开始 */
+.about #content .reason {
+	align-items: center;
+	width: 100%;
+	background: #EEEEEE;
+	padding: 80px 0;
+}
+
+.about #content .reason .font {
+	color: #000000;
+	width: 90%;
+	margin: 0 auto;
+	line-height: 2.625em;
+}
+
+.about #content .reason .font h3 {
+	text-align: center;
+	margin-bottom: 10px;
+	font-size: 2.25em;
+	font-weight: 500;
+	color: #1676E5;
+
+}
+
+.about #content .reason .font p {
+	font-size: 1.3125em;
+	font-weight: 400;
+}
+
+.about #content .reason .pictrue img {
+	width: 86.25em;
+	height: 25rem;
+	float: right;
+}
+/* 选择我们的理由结束 */
